@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-basico",
+  "name": "@anacnogueira/nodejs-basico",
   "version": "1.0.0",
   "description": "Projeto Básico de Node.js",
   "main": "index.js",
@@ -13,7 +13,7 @@
     "nodejs"
   ],
   "author": "Ana Claudia Nogueira",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "console-log-hello-world": "^1.0.3"
   }
