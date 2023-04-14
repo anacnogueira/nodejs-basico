@@ -15,6 +15,7 @@
   "author": "Ana Claudia Nogueira",
   "license": "MIT",
   "dependencies": {
-    "console-log-hello-world": "^1.0.3"
+    "console-log-hello-world": "^1.0.3",
+    "websocket": "^1.0.34"
   }
 }
