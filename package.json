@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-basico",
+  "version": "1.0.0",
+  "description": "Projeto Básico de Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hode.js",
+    "init",
+    "node.js",
+    "nodejs"
+  ],
+  "author": "Ana Claudia Nogueira",
+  "license": "ISC"
+}
